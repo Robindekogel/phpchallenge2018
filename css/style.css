@@ -1,0 +1,24 @@
+header.jumbotron.jumbotron-fluid.mb-0.bg-warning.text-white {
+    margin-top: -2%;
+    margin-bottom: 25px !important;
+}
+
+header.jumbotron.jumbotron-fluid.mb-0.bg-warning.text-white {
+    height: 650px;
+    background-image: url(../img/background-1.jpg);
+}
+
+.bg-danger {
+    background-color: #444444 !important;
+}
+
+
+section.col-sm-4 img {
+    width: 100%;
+}
+
+
+.card-footer {
+    text-align: center;
+    margin-top: 5%;
+}

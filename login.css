@@ -1,0 +1,19 @@
+input[type="text"] {
+    margin-left: 4%;
+    margin-bottom: 1%;
+}
+
+form {
+    margin-top: 5%;
+}
+
+
+input[type="submit"] {
+    margin-top: 1%;
+    background: #019090b5;
+    border: 1px solid #0000002e;
+    padding: 1%;
+    width: 15%;
+    border-radius: 4%;
+    color: #fff;
+}
